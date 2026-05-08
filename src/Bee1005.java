@@ -8,6 +8,6 @@ public class Bee1005 {
         double B = sc.nextDouble();
         double media = (A * 3.5 + B * 7.5) / 11;
 
-        System.out.println(String.format("MEDIA = %.5f", Math.min(media, 10.0)));
+        System.out.println(String.format("MEDIA = %.5f", Math.min(media, 10.0)))/
     }
 }
